@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Iiro Jääskeläinen 👋
 
 ### :man: About me:
   :mortar_board: Studying at [Hive Helsinki](https://www.hive.fi/en/), a [42 School](https://42.fr/en/homepage/) in Helsinki, Finland 
