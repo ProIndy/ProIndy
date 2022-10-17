@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### :man: About me:
+  :mortar_board: Studying at [Hive Helsinki](https://www.hive.fi/en/), a [42 School](https://42.fr/en/homepage/) in Helsinki, Finland 
 
 <!--
 **ProIndy/ProIndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
