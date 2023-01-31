@@ -19,7 +19,6 @@
 - Unix
 #### :mailbox_with_mail: Contact:
 - [LinkedIn](https://www.linkedin.com/in/iiro-m-jaaskelainen/)
-- iiro.m.jaaskelainen@gmail.com
 
 <!--
 **ProIndy/ProIndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
