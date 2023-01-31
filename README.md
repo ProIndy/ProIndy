@@ -1,7 +1,25 @@
-### Hello, my name is Iiro Jääskeläinen 👋
+### Hello! Nice to meet you! I'm Iiro 👋
 
-### :man: About me:
-  :mortar_board: Studying at [Hive Helsinki](https://www.hive.fi/en/), a [42 School](https://42.fr/en/homepage/) in Helsinki, Finland 
+#### What's up right now:
+  :mortar_board: Finishing studies at [Hive Helsinki](https://www.hive.fi/en/), a [42 School](https://42.fr/en/homepage/) in Helsinki, Finland<br />
+  :office: Looking for Software Development intership
+#### About me:
+  :computer: Up-And-Coming Software Developer<br />
+  :video_game: Video Games are a passion of mine
+#### Languages:
+- C
+- C++
+- Python
+- Java
+#### Tools:
+- Git
+- MySQL
+- SDL
+- Bash
+- Unix
+#### :mailbox_with_mail: Contact:
+- [LinkedIn](https://www.linkedin.com/in/iiro-m-jaaskelainen/)
+- iiro.m.jaaskelainen@gmail.com
 
 <!--
 **ProIndy/ProIndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
