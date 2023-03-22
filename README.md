@@ -2,7 +2,7 @@
 
 #### What's up right now:
   :mortar_board: Finishing studies at [Hive Helsinki](https://www.hive.fi/en/), a [42 School](https://42.fr/en/homepage/) in Helsinki, Finland<br />
-  :office: Looking for Software Development intership
+  :office: Looking for Software Development internship
 #### About me:
   :computer: Up-And-Coming Software Developer<br />
   :video_game: Video Games are a passion of mine
