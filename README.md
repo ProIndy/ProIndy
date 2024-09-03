@@ -1,7 +1,7 @@
 ### Hello! Nice to meet you! I'm Iiro 👋
 
 #### What's up right now:
-  :mortar_board: Finishing studies at [Hive Helsinki](https://www.hive.fi/en/), a [42 School](https://42.fr/en/homepage/) in Helsinki, Finland<br />
+  :mortar_board: Finished studies at [Hive Helsinki](https://www.hive.fi/en/), a [42 School](https://42.fr/en/homepage/) in Helsinki, Finland<br />
   :office: Looking for Software Development internship
 #### About me:
   :computer: Up-And-Coming Software Developer<br />
